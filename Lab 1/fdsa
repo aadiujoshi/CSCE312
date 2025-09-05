@@ -1,0 +1,6 @@
+ssh aadiujoshi@linux.cse.tamu.edu
+
+scp -r "/Users/aadijoshi/Desktop/Programming Projects/School Stuff/CSCE312/Lab 1" aadiujoshi@linux.cse.tamu.edu:"/home/ugrads/a/CSCE312/Lab1"
+
+
+scp -r "/Users/aadijoshi/Desktop/Programming Projects/School Stuff/CSCE312/Lab 1" aadiujoshi@linux.cse.tamu.edu:~
